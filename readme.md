@@ -1,7 +1,7 @@
 # twitch-dmenu
 > Open followed & top Twitch.tv Streams with dmenu and livestreamer
 
-![](demo.gif)
+[![](http://i.imgur.com/OVJYoIU.png)](http://gfycat.com/GrandioseAliveAfricanaugurbuzzard)
 
 ## Install
 Requires [livestreamer](http://livestreamer.io) and [dmenu](http://tools.suckless.org/dmenu/).   
