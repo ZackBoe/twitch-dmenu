@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var spawn = require('child_process').spawn;
 var TwitchApi = require('twitch-api');
 var program = require('commander');
