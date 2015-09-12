@@ -1,0 +1,17 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+</head>
+
+<body>
+    <script>
+        var url = location.href.replace('/#', '?');
+        var oReq = new XMLHttpRequest();
+        oReq.open("post", url, true);
+        oReq.send();
+    </script><br>
+    You can close this page.
+</body>
+</html>

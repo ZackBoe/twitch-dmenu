@@ -1,0 +1,22 @@
+{
+  "name": "twitch-dmenu",
+  "version": "1.0.0",
+  "description": "Open followed & top Twitch.tv Streams with dmenu and livestreamer",
+  "repository": "zackboe/twitch-dmenu",
+  "main": "twitch-dmenu.js",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "commander": "^2.8.1",
+    "configstore": "^1.2.1",
+    "open": "0.0.5",
+    "querystring": "^0.2.0",
+    "twitch-api": "^0.4.3",
+    "update-notifier": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zack Boehm <git@zackboehm.com> (zackboe.hm)",
+  "license": "ISC"
+}
