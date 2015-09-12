@@ -1,6 +1,6 @@
 {
   "name": "twitch-dmenu",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Open followed & top Twitch.tv Streams with dmenu and livestreamer",
   "repository": "zackboe/twitch-dmenu",
   "main": "twitch-dmenu.js",
