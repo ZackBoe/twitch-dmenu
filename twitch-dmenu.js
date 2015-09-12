@@ -65,6 +65,7 @@ if(conf.get('twitchToken')){
     getTopStreams();
   });
 }
+else getTopStreams();
 
 function getTopStreams(){
   if(program.verbose) console.log('Getting top streams')
