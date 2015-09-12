@@ -4,6 +4,7 @@
   "description": "Open followed & top Twitch.tv Streams with dmenu and livestreamer",
   "repository": "zackboe/twitch-dmenu",
   "main": "twitch-dmenu.js",
+  "bin": "twitch-dmenu.js",
   "dependencies": {
     "chalk": "^1.1.1",
     "commander": "^2.8.1",
